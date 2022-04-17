@@ -1,5 +1,5 @@
 # Improving The Diagnosis of Thyroid Cancer by Machine Learning and Clinical Data
-This repository contains the R code that generates the result in the paper 'Improving The Diagnosis of Thyroid Cancer by Machine Learning and Clinical Data'. Please check our [preprint](https://arxiv.org/abs/2203.15804) for details. The dataset collected and used in this study can be found at our [Zenodo repository](https://zenodo.org/record/6387087#.Ykh5UuqZM4c).
+This repository contains the R code that generates the result in the paper 'Improving The Diagnosis of Thyroid Cancer by Machine Learning and Clinical Data'. Please check our [preprint](https://arxiv.org/abs/2203.15804) for details. The dataset collected and used in this study can be found at our [Zenodo repository](https://zenodo.org/record/6465436#.YluFJuiZM4c).
 
 ## Code Structure
 
