@@ -27,10 +27,10 @@ The comparison of five prediction measurements between expert assessment and ran
 
 All the R code that creates the figures in the paper.
 
-# Contact
+## Contact
 If you have any suggestions and comments on this study, please contact Nan Miles Xi (<mxi1@luc.edu>). 
 
-# Citation
+## Citation
 If you use the dataset or R code in your work, please cite 
 
 Xi, M.N., Wang, L., and Yang, C. (2022). Improving The Diagnosis of Thyroid Cancer by Machine Learning and Clinical Data. arXiv:2203.15804. 
