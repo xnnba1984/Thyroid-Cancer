@@ -33,4 +33,4 @@ If you have any suggestions and comments on this study, please contact Nan Miles
 ## Citation
 If you use the dataset or R code in your work, please cite 
 
-Xi, M.N., Wang, L., and Yang, C. (2022). Improving The Diagnosis of Thyroid Cancer by Machine Learning and Clinical Data. **Scientific Reports** 12, 1143. 
+Xi, M.N., Wang, L., and Yang, C. (2022). Improving The Diagnosis of Thyroid Cancer by Machine Learning and Clinical Data. _**Scientific Reports**_ 12, 1143. 
